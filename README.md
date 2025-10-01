@@ -1,8 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk3ZTlkN2c0ZzNyNDVqNHU1ejBkM2Q5aXZ3eGlnM3Rmbno1Y2kxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" 
+  <img src="https://github.com/hamza-appdeveloper/hamza-appdeveloper/blob/main/Android%20App.jpg" 
        alt="MasterHead" 
-       width="500" 
+       width="1000" 
        style="border-radius:20px;"/>
 </p>
 
