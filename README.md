@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **Android apps using Kotlin & Jetpack Compose**
 - 🌱 I’m learning **Clean Architecture, Ktor & advanced Android security**
 - 💬 Technologies **Kotlin, Compose, Firebase, REST APIs, Retrofit**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hamza-appdeveloper/) [Gmail](hamzada6086@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hamza-appdeveloper/)  <a href="mailto:hamzada6086@gmail.com">Gmail</a>**
 
 ---
 <!-- Skills Section -->
