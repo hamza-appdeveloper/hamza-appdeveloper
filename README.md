@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/hamza-appdeveloper/hamza-appdeveloper/blob/main/Android%20App.jpg" 
        alt="MasterHead" 
-       width="1000" 
+       width="800" 
        style="border-radius:20px;"/>
 </p>
 
